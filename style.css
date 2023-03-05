@@ -1,0 +1,88 @@
+body {
+    background: black;
+    padding: 10%;
+    font-family: 'ABeeZee', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.post-instagram {
+    background: white;
+    padding-bottom: 5px;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin: auto;
+    width: 30%;
+    height: 100%;
+}
+
+
+.cabecera {
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+    padding-top: 5px;
+    margin: 0;
+}
+
+.icono-ig {
+    display: flex;
+    padding: 1%;
+    font-size: 2rem;
+    align-items: center;
+}
+
+.cabecera .icono-ig p {
+    font-size: small;
+    padding-top: 10px;
+    padding: 0;
+    padding-left: 5px;
+    margin: 0;
+    display: block;
+    }
+
+
+.usuario1 {
+    font-weight: bold;
+}
+
+.usuario2 {
+    font-family: 'ABeeZee', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.iconos {
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.5rem;
+}
+
+.iconos .izquierda i{
+    padding-right: 10px;
+}
+
+.icono-more {
+    display: flex;
+    justify-content: flex-end;
+    padding: 2%;
+    font-size: 30px;
+    float: right;
+}
+
+.imagen1 img {
+    width: 319px;
+    height: 350px;
+}
+
+.imagen2 img {
+    width: 319px;
+    height: 350px;
+}
+
+.imagen3 img {
+    width: 319px;
+    height: 350px;
+}
+
+.pie {
+    font-size: small;
+}
